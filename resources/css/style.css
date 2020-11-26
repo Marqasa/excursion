@@ -1,0 +1,40 @@
+/* Universal styles */
+body {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+/* Header styles */
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+/* Main styles */
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+/* Footer styles */
+.footer-content {
+  margin-top: 20px;
+}
+.copywrite-info {
+  padding-right: 10px;
+  text-align: right;
+}
