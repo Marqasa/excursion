@@ -16,7 +16,7 @@ This is a [Codecademy](https://www.codecademy.com/) course project and was built
 
 ## Screenshot
 
-![Excursion screenshot](./resources\images\excursion.png)
+![Excursion screenshot](https://raw.githubusercontent.com/Marqasa/excursion/main/resources/images/excursion.png)
 
 ## See It In Action
 
